@@ -1,0 +1,1 @@
+const t={key:"v-76f7ad94",path:"/blank/",title:"Dafou CR",lang:"zh-CN",frontmatter:{layout:"Blank",lang:"zh-CN",title:"Dafou CR",description:"Dafou CR"},excerpt:"",headers:[],git:{updatedTime:1654396114e3,contributors:[{name:"ki0lp",email:"914685907@qq.com",commits:1}]},filePathRelative:"blank/README.md"};export{t as data};
